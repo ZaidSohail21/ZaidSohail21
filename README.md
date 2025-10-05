@@ -1,19 +1,19 @@
-# 👋 Hey there, I'm Zaid Sohail from Pakistan
+# 👋 Hey there, I'm Zaid Sohail
 
-### Front-End Developer | MERN Stack | JavaScript Enthusiast
+### Front-End Developer | MERN Stack | CS Student
 **zaidsohail21**
 
 ---
 
-🌱 I’m currently learning **Next.js**, **TypeScript**, and **Backend APIs**
+🌱 I’m currently learning **Backend APIs** and **Frontend Connection with Backend**
 
-💻 I’m currently working on a **Restaurant Management System** and a **Full-Stack E-Commerce Project**
+💻 I’m currently working on a **Restaurant Management System**
 
 📂 All of my projects are available at [https://zaidsohail.vercel.app](https://zaidsohail.vercel.app)
 
 💬 Ask me about **React.js, Tailwind CSS, Node.js, Express, and MongoDB**
 
-📫 How to reach me **zaidsohail4321@gmail.com**
+📫 How to reach me **zaidsohail262@gmail.com**
 
 🎯 My goal: To become a **Full-Stack Developer** who builds clean, modern, and scalable applications.
 
