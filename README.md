@@ -5,8 +5,6 @@
 # 👋 Hey there, I'm Zaid Sohail
 
 ### Front-End Developer | MERN Stack | CS Student
-**zaidsohail21**
-
 ---
 
 🌱 I’m currently learning **Backend APIs** and **Frontend Connection with Backend**
