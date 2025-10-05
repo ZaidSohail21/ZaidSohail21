@@ -1,3 +1,7 @@
+<!-- 👋 GitHub Profile README for Zaid Sohail -->
+
+
+
 # 👋 Hey there, I'm Zaid Sohail
 
 ### Front-End Developer | MERN Stack | CS Student
@@ -42,4 +46,9 @@
 
 ---
 
+### 📊 GitHub Stats
+![Zaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZaidSohail21&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZaidSohail21&layout=compact&theme=tokyonight)
+
+---
 ⭐ **“Code. Learn. Build. Repeat.”**
