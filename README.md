@@ -7,7 +7,7 @@
 ### Front-End Developer | MERN Stack | CS Student
 ---
 
-🌱 I’m currently learning **Backend APIs** and **Frontend Connection with Backend**
+🌱 I’m currently learning **Next JS** and **Typescript**
 
 💻 I’m currently working on a **Restaurant Management System**
 
